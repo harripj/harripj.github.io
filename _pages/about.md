@@ -15,8 +15,8 @@ I am a postdoctoral researcher at [SIMaP laboratory](https://www.google.com/sear
 This work involves the development of grain reconstruction algorithms from the diffraction data using Python-based machine learning and image processing. The backbone of the processing workflow is based around grain orientations, which can be calculated using the [Automated Crystal Orientation Mapping](https://nanomegas.com/tem-orientation-imaging/) (ACOM) technique. The dimensionality of the individual crystal orientations maps is reduced through orientation-based clustering into grain components, which are tracked throughout the different tilt-series reference frames, allowing for both grain coupling and orientation refinement. Development of Virtual Reconstruction (VR) algorithms enable orientation-specific contrast and unambiguous determination of the same grain throughout the tilt-series.
 
 This work is explained further in the following publications:
-  - [New Features in Crystal Orientation and Phase Mapping for Transmission Electron Microscopy]({% link publication/005-symmetry.md %})
-  - [Reconstructing grains in 3D through 4D Scanning Precession Electron Diffraction]({% link publication/004-MM.md %})
+  - [New Features in Crystal Orientation and Phase Mapping for Transmission Electron Microscopy]({% link _publications/005-symmetry.md %})
+  - [Reconstructing grains in 3D through 4D Scanning Precession Electron Diffraction]({% link _publications/004-MM.md %})
 
 For those interested in undertaking a similar analysis, a GUI is expected to be released in the future- more to follow! In the mean time check out [`orix`](https://orix.readthedocs.io/en/stable/) for crystallographic analysis using Python.
 
