@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/001-UoB
 venue: "University of Birmingham, UK, Department of Physics"
-date: 2016-01-01
+date: 2017-01-01
 location: "Birmingham, UK"
 ---
 
