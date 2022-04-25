@@ -17,7 +17,7 @@ Education
 Work experience
 ======
 * 2020 - present: Postdoctoral researcher working on algorithm development for 3D reconstruction from 4D-SPED data
-  * See [home page]{% about.md %} for more details.
+  * See [home page]{% _pages/about.md %} for more details.
   
 Skills
 ======
