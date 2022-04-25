@@ -1,0 +1,1 @@
+[Pt147 Nanoclusters Soft-Landed on WS2 Nanosheets for Catalysis and Energy Harvesting](https://doi.org/10.1021/acsanm.1c02683)
