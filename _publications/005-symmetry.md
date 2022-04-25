@@ -10,3 +10,5 @@ date: 2021-09-09
 venue: Symmetry
 paperurl: 'https://doi.org/10.3390/sym13091675'
 ---
+
+![3d reconstruction](/images/005-symmetry-1.jpg)
