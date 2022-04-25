@@ -8,7 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Current work
+============
+I am a postdoctoral researcher at [SIMaP laboratory](https://www.google.com/search?client=safari&rls=en&q=simap+laboratory&ie=UTF-8&oe=UTF-8), Grenoble INP, working on algorithm development for 3D reconstructions of multi-phase nanoscale materials from 4D Electron Diffraction data, and more specifically Scanning Precession Electron Diffraction (SPED) data. Diffraction contrast allows indvidual grains to be distinguished within a polycrystalline sample, which is not possible using common imaging signals in the electron microscope (BF/ADF). Tilted projections of individual grains are calculated for tomographic reconstruction by combining SPED with tilt-series tomography, enabling 3D reconstrion of the sample volume and analysis of the material microstructure.
+
+This work involves the development of grain reconstruction algorithms from the diffraction data using Python-based machine learning and image processing. The backbone of the processing workflow is based around grain orientations, which can be calculated using the [Automated Crystal Orientation Mapping](https://nanomegas.com/tem-orientation-imaging/) (ACOM) technique. The dimensionality of the individual crystal orientations maps is reduced through orientation-based clustering into grain components, which are tracked throughout the different tilt-series reference frames, allowing for both grain coupling and orientation refinement. Development of Virtual Reconstruction (VR) algorithms enable orientation-specific contrast and unambiguous determination of the same grain throughout the tilt-series.
+
+This work is explained further in the following publications:
+
+For those interested in undertaking a similar analysis, a GUI is expected to be released in the future- more to follow! In the mean time check out [`orix`](https://orix.readthedocs.io/en/stable/) for crystallographic analysis using Python.
+
+
 
 A data-driven personal website
 ======
