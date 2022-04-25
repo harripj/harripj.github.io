@@ -11,30 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* MPhys 1st class hons, Physics, University of Bath, UK 2015
+* PhD in Nanoscale Physics, University of Birmingham, UK 2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2020 - present: Postdoctoral researcher working on algorithm development for 3D reconstruction from 4D-SPED data
+  * See [home page]{% about.md %} for more details.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python-proficient: machine learning and image processing workflows (NumPy, Numba, PyTorch, SciPy, scikit-image, scikit-learn, OpenCV), n-dimensional data analysis (including 4D-diffraction data), optimization and inverse problems, model creation, computer vision, and simulations.
+* Git: versioning, collaboration, CI, and test-driven development.
+* Maintainer for orix quaternion-based orientation library written in Python.
+* Object-Oriented Programming, Matlab, LabView, C, C++, SQL, Windows, Linux, and Mac. GUI creation: Qt and Tk.
+* Document creation: LaTeX, Microsoft Office, Apple iWork.
 
 Publications
 ======
@@ -53,7 +44,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
