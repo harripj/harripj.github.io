@@ -14,7 +14,7 @@ Education
 * MPhys 1st class hons, Physics, University of Bath, UK 2015
 * PhD in Nanoscale Physics, University of Birmingham, UK 2020
 
-Work experience
+Professional experience
 ======
 * 2020 - present: Postdoctoral researcher working on algorithm development for 3D reconstruction from 4D-SPED data
   * See [home page]{% link _pages/about.md %} for more details.
