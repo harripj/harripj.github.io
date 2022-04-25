@@ -4,6 +4,6 @@ collection: publications
 permalink: /publication/002-microscopy
 excerpt: ''
 date: 2020-02-17
-journal: Journal of Microscopy
+venue: Journal of Microscopy
 paperurl: 'https://doi.org/10.1111/jmi.12877'
 ---

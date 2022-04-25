@@ -7,6 +7,6 @@ excerpt: '
   <img width="300" height="" src="/images/005-symmetry-1.jpg">
 </p>'
 date: 2021-09-09
-journal: Symmetry
+venue: Symmetry
 paperurl: 'https://doi.org/10.3390/sym13091675'
 ---
