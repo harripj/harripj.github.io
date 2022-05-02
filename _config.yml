@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name: "Your Sidebar Name"
-  avatar: "images/site-logo.png"
+  avatar: "profile.png"
   bio: "Postdoctoral Researcher working on machine learning and image processing algorithms in Python for Electron Microscopy."
   location: "DE"
   employer:
